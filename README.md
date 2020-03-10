@@ -1,2 +1,6 @@
 # ML-in-action
-All basics algorithms in machine learning and deep learning are here and also different neural network based algorithms.
+## Designing Neural Netowrks, Deep Learning and Machine learning algorithms such as
+#### Artificial Neural Networks
+#### Recurrent Neural Network
+#### Linear Regression
+#### Convolution Neural Networks(CNN)
