@@ -5,3 +5,4 @@
 #### Recurrent Neural Network
 #### Linear Regression
 #### Convolution Neural Networks(CNN)
+#### Generative Adversarial Networks
