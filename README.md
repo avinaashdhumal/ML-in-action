@@ -1,6 +1,6 @@
 # Machine Learning in Action(ML-in-action)
 ![](https://github.com/avinaashdhumal/ML-in-action/blob/master/pharrington1.png)
-## Designing Neural Netowrks
+## Designing Neural Netowrks such as:
 #### Artificial Neural Networks
 #### Recurrent Neural Network
 #### Linear Regression
