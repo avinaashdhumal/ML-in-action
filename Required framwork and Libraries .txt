@@ -1,0 +1,11 @@
+Requirement:
+1. You have to basic knowledge Python Programming languauge,
+    Data Base, and also you have to know how to handle different data files such as CSV, json, etc.,  
+2. Libraries:
+	a. Numpy
+	b. Pandas
+	c. Matplotlib
+	d. Sklearn
+	e. TensorFlow 2.x
+	f. Scipy
+	
