@@ -1,6 +1,6 @@
 Requirement:
-1. You have to basic knowledge Python Programming languauge,
-   Data Base, and also you have to know how to handle different data files such as CSV, json, etc.,  
+1. You have to basic knowledge of Python Programming languauge,
+   Data Base, and also you have to know, how to handle different data files such as CSV, json, etc.,  
 2. Libraries:
 	a. Numpy
 	b. Pandas
